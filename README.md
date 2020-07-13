@@ -1,9 +1,9 @@
-<h1 align="center">TBomb v1.7b</h1>
+<h1 align="center">TBomb മലയാളം</h1>
 <p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
 
 ## Note:
 
-Due misusing of TBomb, several API's died. 
+ദേയവ് ചെയ്ത്  മിസ്സ് use ചെയ്യരുത്   of TBomb, several API's died. 
 Don't be afraid if you don't see all send messages.
 
 - The script requires working network connection to work.
@@ -104,40 +104,25 @@ sudo bash TBomb.sh
 
 ## Demontrative Video:
 
-- Watch Indian Bombing Method <a href="https://youtu.be/9KWkwsr_QGw">here</a><br>
-- Watch International Bombing Method <a href="https://youtu.be/JqsHkyIcnPM">here</a><br>
+-എല്ലാവരും subscribe <a href="https://www.youtube.com/c/ANONYMOUSKiDH4007">here</a><br>
+- Watch Method <a href="https://www.youtube.com/c/ANONYMOUSKiDH4007">here</a><br>
 
 ## CONTRIBUTORS:
 
-- **SpeedX**<br>
-[-] Mail At: ggspeedx29@gmail.com
+- **Anandu Gopan**<br>
+[-] Mail At: 404_cyber_hoster_3.0
 
-- **DarkestEntropy**<br>
-[-] Check At: https://github.com/darkestentropy
+- **Anandu**<br>
+[-] Check At:https://www.youtube.com/c/ANONYMOUSKiDH4007
 
-- **The Black Hacker Roxstar**<br>
 
-- **Rieltar**<br>
-[-] Ping At: https://t.me/RieltarReborn
 
-- **0n1cOn3 (Stefan)**<br>
-[-] Mail At: 0n1cOn3@gmx.ch
 
-## Donators:
 
-**[@] 34D30Y ( 34db0y@protonmail.com  )**
 
-**[@] SC AMAN**
 
-# CONTACT ME:
 
-Feel Free To Open An Issue...
 
-```
-                 Mail: ggspeedx29@gmail.com<br>
-       YouTube Channel: https://www.youtube.com/c/GyanaTech
-```
 
-<a href="https://www.youtube.com/c/GyanaTech">Check Out My YouTube Channel</a>
 
-<!-- L3yvMKWbLJAermqvZT1vKmDkGwqsZmD1rK0= -->
+
